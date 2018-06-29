@@ -77,7 +77,7 @@ $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
 '  
-'.$zrilta.' CHAUDHRYS BOTTERS <3 VERIFIED-BOT,TK  '.$hamza.'  ', 
+'.$zrilta.' VERIFIED-BOT,TK <3 CHAUDHRYS BOTTER '.$hamza.'  ', 
 );
 
 $comments = $text[rand(0,count($text)-1)];
